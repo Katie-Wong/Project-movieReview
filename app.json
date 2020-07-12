@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "gamezone",
-    "slug": "gamezone",
+    "name": "movieReview",
+    "slug": "movieReview",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
